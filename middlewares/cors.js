@@ -1,5 +1,5 @@
 const allowedCors = [
-    'https://mandarinchiki.nomoredomainswork.ru/'
+    'https://mandarinchiki.nomoredomainswork.ru'
   ];
 
 
