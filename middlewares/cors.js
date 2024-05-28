@@ -1,8 +1,6 @@
-const allowedCors = [
-    'https://mandarinchiki.nomoredomainswork.ru'
-  ];
+//const allowedCors = ['https://mandarinchiki.nomoredomainswork.ru'];
 
-
+const allowedCors = ['*'];
 
 function cors(req, res, next) {
     const { origin } = req.headers;
