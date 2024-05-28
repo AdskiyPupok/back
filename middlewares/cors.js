@@ -1,4 +1,4 @@
-const allowedCors = ["https://mandarinchiki.nomoredomainswork.ru", "https://pomidoryogurci.nomoredomainswork.ru/api"];
+const allowedCors = ["https://pomidoryogurci.nomoredomainswork.ru/api"];
 
 
 function cors(req, res, next) {
